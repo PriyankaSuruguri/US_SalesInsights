@@ -20,7 +20,7 @@ The dashboard aims to monitor and visualize key Key Performance Indicators (KPIs
 #### This dashboard is developed on Power BI.
 ## Overview:
 
-![Sales Insights Dashboard](Dashboard.png)
+![US_Salesnsights](US_Dashboard.png)
 ## Results
 By utilizing this dashboard, stakeholders can:
 
